@@ -2,7 +2,7 @@ from turtle import Turtle
 ALIGNMENT = "center"
 FONT = ('Courier', 40, 'bold')
 HEIGHT = 240
-WINNING_SCORE = 1
+WINNING_SCORE = 10
 
 
 class Score(Turtle):
